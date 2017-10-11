@@ -1,2 +1,3 @@
 name: Zhi Shang, CFD
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
